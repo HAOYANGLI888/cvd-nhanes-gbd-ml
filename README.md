@@ -1,5 +1,5 @@
 # GBD + NHANES CVD Burden and Interpretable ML Project
-
+This repository contains analysis code for the manuscript: "Interpretable machine learning identifies renal, metabolic and inflammatory indicators associated with cardiovascular disease: evidence from NHANES and GBD."
 This project scaffolds a reproducible public-database study:
 
 **Cardiovascular disease burden trends using GBD and metabolic-inflammatory-renal indicator screening using NHANES with interpretable machine learning and weighted epidemiology.**
